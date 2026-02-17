@@ -1,6 +1,6 @@
 # ÚNICO — Condicionados (MVP PDF)
 
-Repositorio mínimo para generar el PDF de “Condicionados” (A4) a partir de HTML/CSS usando Playwright + Chromium, con hardening anti-overflow/anti-scrollbars.
+Repositorio mínimo para generar el PDF de “Condicionados” (A4) a partir de HTML/CSS usando Playwright + Chromium.
 
 ## Requisitos
 
